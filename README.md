@@ -15,7 +15,7 @@
 <h3>:pencil2: Study log</h3> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-r-a-o&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<h3>#### 🍀solved.ac🍀</h3>
+<h3>🍀solved.ac🍀</h3>
 
  <img src="http://mazandi.herokuapp.com/api?handle=pch718&theme=warm"/>
 
