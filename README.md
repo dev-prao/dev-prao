@@ -8,7 +8,9 @@
 
 <h3>🏆 WELCOME TO MY GITHUB 🏆</h3>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23977FFF&title_bg=%235B5555&icon=java.svg&icon_color=%23FF0000&title=HITS&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp-r-a-o&count_bg=%239487FF&title_bg=%2315B2FD&icon=riotgames.svg&icon_color=%23D4A996&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
 
 <br/>
 
