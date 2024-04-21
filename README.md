@@ -6,7 +6,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=E3F2FD&height=150&section=header&text=prao's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-<h3>🏆 WELCOME TO MY GITHUB 🏆</h3>
+<h3>🏆 PRAO's GITHUB 🏆</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-prao&count_bg=%239487FF&title_bg=%2315B2FD&icon=riotgames.svg&icon_color=%23D4A996&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
