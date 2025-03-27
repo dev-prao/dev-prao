@@ -6,12 +6,6 @@
   
 <h3>🏆 PRAO's GITHUB 🏆</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-prao&count_bg=%239487FF&title_bg=%2315B2FD&icon=riotgames.svg&icon_color=%23D4A996&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
-
-<br/>
-
 <h3>:pencil2: Study log :pencil2:</h3> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-prao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
