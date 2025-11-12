@@ -1,10 +1,12 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 * * * *' # 매일 오전 9시에 실행
+  workflow_dispatch:
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -13,8 +15,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in Tistory posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://prao.tistory.com/rss"
           accept_header: "text/xml"
+
+          # ✅ 커스터마이징 옵션들 추가
+          max_post_count: 5
+          date_format: "yyyy.MM.dd"
+          template: "- 📝 [{{title}}]({{url}})  <br> _{{date}}_"
+          item_exec: "decodeURI"
