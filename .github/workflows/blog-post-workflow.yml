@@ -28,6 +28,6 @@ jobs:
             | 날짜 | 제목 |
             |------|------|
             $newline
-            $emojiKey(🧩,📘,💡,🪄,🚀)
+            $randomEmoji
             $counter. $date | [$title]($url)
             $newline
