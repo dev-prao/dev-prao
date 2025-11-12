@@ -10,12 +10,14 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; table-layout:fixed; width:100%;">
   <tr>
     <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-prao&layout=compact" alt="Top Langs"/>
+      <a href="https://solved.ac/pch718">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=pch718" alt="Solved.ac Profile"/>
       </a>
     </td>
     <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
-      <img src="http://mazandi.herokuapp.com/api?handle=pch718&theme=warm" alt="solved.ac"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-prao&layout=compact&show_icons=true&theme=highcontrast" alt="Top Langs"/>
+      </a>
     </td>
   </tr>
 </table>
