@@ -80,7 +80,7 @@
       <td style="white-space:nowrap; vertical-align:top;">
         <ul>
           <li>부산은행 디지털금융개발부 동백전 운영 및 개발<br/>(2025.01 ~ 현재)</li>
-          <li>부산시설공단 전기직렬<br/>(2022.01 ~ 2023.03)</li>
+          <li>부산시설공단 전기안전관리자(초급)<br/>(2022.01 ~ 2023.03)</li>
         </ul>
       </td>
       <td style="white-space:nowrap; vertical-align:top;">
