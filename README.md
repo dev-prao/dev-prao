@@ -31,7 +31,7 @@
     <img src="https://markdown-box-generator.vercel.app/api/box?title=LinkedIn&author=Author&date=2023-01-01&style=linked" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/praokr">
-    <img src="https://markdown-box-generator.vercel.app/api/box?title=praokr&author=Author&date=2022-03-21&style=insta" alt="Instagram"/>
+    <img src="https://markdown-box-generator.vercel.app/api/box?title=praokr&author=Author&date=2015-05-05&style=insta" alt="Instagram"/>
   </a>
 </div>
 
