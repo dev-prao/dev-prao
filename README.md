@@ -61,87 +61,86 @@
     <li>일기를 쓰고 감정을 분석하는 서비스, 감정일기 (2025.06)</li>
     <li>KBO 입문자들을 위한 야구 커뮤니티, BUNT (2025.05)</li>
   </ul>
-
+  
+  <br/><br/>
+  
   <h3>📜 History</h3>
-<!-- 🔹 주요 이력 -->
-<table align="center" style="table-layout:fixed; width:100%; border-collapse:collapse;">
-  <tr>
-    <th>💼 Career</th>
-    <th>🎓 Education</th>
-    <th>🏆 Certificates</th>
-  </tr>
+  <!-- 🔹 주요 이력 -->
+  <table align="center" style="table-layout:fixed; width:100%; border-collapse:collapse;">
+    <tr>
+      <th>💼 Career</th>
+      <th>🎓 Education</th>
+      <th>🏆 Certificates</th>
+    </tr>
+    <tr>
+      <td style="white-space:nowrap; vertical-align:top;">
+        <ul>
+          <li>부산은행 디지털금융개발부 동백전 운영 및 개발<br/>(2025.01 ~ 현재)</li>
+          <li>부산시설공단 전기직렬<br/>(2022.01 ~ 2023.03)</li>
+        </ul>
+      </td>
+      <td style="white-space:nowrap; vertical-align:top;">
+        <ul>
+          <li>삼성 청년 소프트웨어 아카데미 11기<br/>(2024.01 ~ 2024.10)</li>
+          <li>우아한테크코스 프리코스 참여<br/>(2023.11 ~ 2023.12)</li>
+          <li>부경대학교 나노융합공학과 졸업<br/>(2015.03 ~ 2020.02)</li>
+        </ul>
+      </td>
+      <td style="white-space:nowrap; vertical-align:top;">
+        <ul>
+          <li>금융DT (2025.08)</li>
+          <li>리눅스마스터 1급 (2025.07)</li>
+          <li>SQLD (2024.04)</li>
+          <li>정보처리기사 (2022.11)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
-  <tr>
-    <td style="white-space:nowrap; vertical-align:top;">
-      <ul>
-        <li>부산은행 디지털금융개발부 동백전 운영 및 개발<br/>(2025.01 ~ 현재)</li>
-        <li>부산시설공단 전기직렬<br/>(2022.01 ~ 2023.03)</li>
-      </ul>
-    </td>
-    <td style="white-space:nowrap; vertical-align:top;">
-      <ul>
-        <li>삼성 청년 소프트웨어 아카데미 11기<br/>(2024.01 ~ 2024.10)</li>
-        <li>우아한테크코스 프리코스 참여<br/>(2023.11 ~ 2023.12)</li>
-        <li>부경대학교 나노융합공학과 졸업<br/>(2015.03 ~ 2020.02)</li>
-      </ul>
-    </td>
-    <td style="white-space:nowrap; vertical-align:top;">
-      <ul>
-        <li>금융DT (2025.08)</li>
-        <li>리눅스마스터 1급 (2025.07)</li>
-        <li>SQLD (2024.04)</li>
-        <li>정보처리기사 (2022.11)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <br/><br/>
+
+  <h3>📚 Tech Stack 📚</h3>
+  
+  <table style="table-layout:fixed; width:100%;">
+    <tr>
+      <td><b>Language</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Infra</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=Docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Skills</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
-<br/><br/>
-
-<h3>📚 Tech Stack 📚</h3>
-
-<table style="table-layout:fixed; width:100%;">
-  <tr>
-    <td><b>Language</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Infra</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=Docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Skills</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
