@@ -24,10 +24,3 @@ jobs:
           date_format: "yyyy.MM.dd"
           disable_html_encoding: true
           commit_message: "🧩 Updated Tistory section"
-          template: |
-            | 날짜 | 제목 |
-            |------|------|
-            $newline
-            $randomEmoji
-            $counter. $date | [$title]($url)
-            $newline
