@@ -15,92 +15,17 @@
 <h3>🍊 Tistory 🍊</h3>
 
 
-<!-- BLOG-POST-LIST:START --><div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">날짜</th>
-        <th align="left">제목</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{#each items}}
-        <tr>
-          <td align="center">{{date}}</td>
-          <td><a href="{{url}}">{{title}}</a></td>
-        </tr>
-      {{/each}}
-    </tbody>
-  </table>
-</div><div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">날짜</th>
-        <th align="left">제목</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{#each items}}
-        <tr>
-          <td align="center">{{date}}</td>
-          <td><a href="{{url}}">{{title}}</a></td>
-        </tr>
-      {{/each}}
-    </tbody>
-  </table>
-</div><div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">날짜</th>
-        <th align="left">제목</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{#each items}}
-        <tr>
-          <td align="center">{{date}}</td>
-          <td><a href="{{url}}">{{title}}</a></td>
-        </tr>
-      {{/each}}
-    </tbody>
-  </table>
-</div><div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">날짜</th>
-        <th align="left">제목</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{#each items}}
-        <tr>
-          <td align="center">{{date}}</td>
-          <td><a href="{{url}}">{{title}}</a></td>
-        </tr>
-      {{/each}}
-    </tbody>
-  </table>
-</div><div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">날짜</th>
-        <th align="left">제목</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{#each items}}
-        <tr>
-          <td align="center">{{date}}</td>
-          <td><a href="{{url}}">{{title}}</a></td>
-        </tr>
-      {{/each}}
-    </tbody>
-  </table>
-</div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->{{#each items}}
+- [{{title}}]({{url}}) — {{date}}
+{{/each}}{{#each items}}
+- [{{title}}]({{url}}) — {{date}}
+{{/each}}{{#each items}}
+- [{{title}}]({{url}}) — {{date}}
+{{/each}}{{#each items}}
+- [{{title}}]({{url}}) — {{date}}
+{{/each}}{{#each items}}
+- [{{title}}]({{url}}) — {{date}}
+{{/each}}<!-- BLOG-POST-LIST:END -->
   
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
