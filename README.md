@@ -68,38 +68,27 @@
   
   <br/><br/>
   
-  <h3>📜 History</h3>
-  <!-- 🔹 주요 이력 -->
-  <table align="center" style="table-layout:fixed; width:100%; border-collapse:collapse;">
-    <tr>
-      <th>💼 Career</th>
-      <th>🎓 Education</th>
-      <th>🏆 Certificates</th>
-    </tr>
-    <tr>
-      <td style="white-space:nowrap; vertical-align:top;">
-        <ul>
-          <li>부산은행 디지털금융개발부 동백전 운영 및 개발<br/>(2025.01 ~ 현재)</li>
-          <li>부산시설공단 전기안전관리자(초급)<br/>(2022.01 ~ 2023.03)</li>
-        </ul>
-      </td>
-      <td style="white-space:nowrap; vertical-align:top;">
-        <ul>
-          <li>삼성 청년 소프트웨어 아카데미 11기<br/>(2024.01 ~ 2024.10)</li>
-          <li>우아한테크코스 프리코스 참여<br/>(2023.11 ~ 2023.12)</li>
-          <li>부경대학교 나노융합공학과 졸업<br/>(2015.03 ~ 2020.02)</li>
-        </ul>
-      </td>
-      <td style="white-space:nowrap; vertical-align:top;">
-        <ul>
-          <li>금융DT (2025.08)</li>
-          <li>리눅스마스터 1급 (2025.07)</li>
-          <li>SQLD (2024.04)</li>
-          <li>정보처리기사 (2022.11)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <h3>My Log 💬</h3>
+  <ul>
+    <li>부산은행 디지털금융개발부 동백전 운영 및 개발(2025.01 ~ 현재)</li>
+    <li>삼성 청년 소프트웨어 아카데미 11기 (2024.01 ~ 2024.10)</li>
+    <li>우아한테크코스 프리코스 참여 (2023.11 ~ 2023.12)</li>
+    <li>부산시설공단 전기안전관리자(초급) (2022.01 ~ 2023.03)</li>
+    <li>부경대학교 나노융합공학과 졸업 (2015.03 ~ 2020.02)</li>
+  </ul>
+
+  <br/><br/>
+
+  <h3>🪪 Certifications</h3>
+  <ul>
+    <li>금융DT (2025.08)</li>
+    <li>리눅스마스터 1급 (2025.07)</li>
+    <li>SQLD (2024.04)</li>
+    <li>정보처리기사 (2022.11)</li>
+    <li>전기공사기사 (2021.07)</li>
+    <li>전기기사 (2020.11)</li>
+    <li>컴퓨터활용능력 1급(2019.10)</li>
+  </ul>
 
   <br/><br/>
 
