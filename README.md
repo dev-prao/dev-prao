@@ -16,90 +16,75 @@
 
 
 <!-- BLOG-POST-LIST:START --><div align="center">
-  <h3>🍊 Tistory 🍊</h3>
   <table>
     <thead>
       <tr>
-        <th>날짜</th>
         <th>제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
       <tr>
-        <td>{{date}}</td>
         <td><a href="{{url}}">{{title}}</a></td>
       </tr>
       {{/each}}
     </tbody>
   </table>
 </div><div align="center">
-  <h3>🍊 Tistory 🍊</h3>
   <table>
     <thead>
       <tr>
-        <th>날짜</th>
         <th>제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
       <tr>
-        <td>{{date}}</td>
         <td><a href="{{url}}">{{title}}</a></td>
       </tr>
       {{/each}}
     </tbody>
   </table>
 </div><div align="center">
-  <h3>🍊 Tistory 🍊</h3>
   <table>
     <thead>
       <tr>
-        <th>날짜</th>
         <th>제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
       <tr>
-        <td>{{date}}</td>
         <td><a href="{{url}}">{{title}}</a></td>
       </tr>
       {{/each}}
     </tbody>
   </table>
 </div><div align="center">
-  <h3>🍊 Tistory 🍊</h3>
   <table>
     <thead>
       <tr>
-        <th>날짜</th>
         <th>제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
       <tr>
-        <td>{{date}}</td>
         <td><a href="{{url}}">{{title}}</a></td>
       </tr>
       {{/each}}
     </tbody>
   </table>
 </div><div align="center">
-  <h3>🍊 Tistory 🍊</h3>
   <table>
     <thead>
       <tr>
-        <th>날짜</th>
         <th>제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
       <tr>
-        <td>{{date}}</td>
         <td><a href="{{url}}">{{title}}</a></td>
       </tr>
       {{/each}}
