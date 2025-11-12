@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *' # 매일 오전 9시에 실행
+    - cron: '0 9 * * *'  # 매일 오전 9시 실행
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo’s README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,9 +20,12 @@ jobs:
         with:
           feed_list: "https://prao.tistory.com/rss"
           accept_header: "text/xml"
-
-          # ✅ 커스터마이징 옵션들 추가
           max_post_count: 5
           date_format: "yyyy.MM.dd"
-          template: "- 📝 [{{title}}]({{url}})  <br> _{{date}}_"
           item_exec: "decodeURI"
+          template: |
+            | 날짜       | 제목 |
+            |------------|------|
+            {{#each items}}
+            | {{date}} | [{{title}}]({{url}}) |
+            {{/each}}
