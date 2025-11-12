@@ -24,9 +24,22 @@ jobs:
           date_format: "yyyy.MM.dd"
           item_exec: "decodeURI"
           template: |
-            | 날짜 | 제목 |
-            |------|------|
-            {{#each items}}
-            | {{date}} | [{{title}}]({{url}}) |
-            {{/each}}
-
+            <div align="center">
+              <h3>🍊 Tistory 🍊</h3>
+              <table>
+                <thead>
+                  <tr>
+                    <th>날짜</th>
+                    <th>제목</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {{#each items}}
+                  <tr>
+                    <td>{{date}}</td>
+                    <td><a href="{{url}}">{{title}}</a></td>
+                  </tr>
+                  {{/each}}
+                </tbody>
+              </table>
+            </div>
