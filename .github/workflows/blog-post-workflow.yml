@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # 매시 정각마다 실행
   workflow_dispatch:
 
 permissions:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in Tistory posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v2.0.1
         with:
           feed_list: "https://prao.tistory.com/rss"
           accept_header: "text/xml"
@@ -32,7 +32,7 @@ jobs:
                   </tr>
                 </thead>
                 <tbody>
-                  {{#each items}}
+                  {{#each posts}}
                     <tr>
                       <td align="center">{{date}}</td>
                       <td><a href="{{url}}">{{title}}</a></td>
