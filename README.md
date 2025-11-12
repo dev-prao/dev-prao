@@ -19,14 +19,16 @@
   <table>
     <thead>
       <tr>
-        <th>제목</th>
+        <th align="center">날짜</th>
+        <th align="left">제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
-      <tr>
-        <td><a href="{{url}}">{{title}}</a></td>
-      </tr>
+        <tr>
+          <td align="center">{{date}}</td>
+          <td><a href="{{url}}">{{title}}</a></td>
+        </tr>
       {{/each}}
     </tbody>
   </table>
@@ -34,14 +36,16 @@
   <table>
     <thead>
       <tr>
-        <th>제목</th>
+        <th align="center">날짜</th>
+        <th align="left">제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
-      <tr>
-        <td><a href="{{url}}">{{title}}</a></td>
-      </tr>
+        <tr>
+          <td align="center">{{date}}</td>
+          <td><a href="{{url}}">{{title}}</a></td>
+        </tr>
       {{/each}}
     </tbody>
   </table>
@@ -49,14 +53,16 @@
   <table>
     <thead>
       <tr>
-        <th>제목</th>
+        <th align="center">날짜</th>
+        <th align="left">제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
-      <tr>
-        <td><a href="{{url}}">{{title}}</a></td>
-      </tr>
+        <tr>
+          <td align="center">{{date}}</td>
+          <td><a href="{{url}}">{{title}}</a></td>
+        </tr>
       {{/each}}
     </tbody>
   </table>
@@ -64,14 +70,16 @@
   <table>
     <thead>
       <tr>
-        <th>제목</th>
+        <th align="center">날짜</th>
+        <th align="left">제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
-      <tr>
-        <td><a href="{{url}}">{{title}}</a></td>
-      </tr>
+        <tr>
+          <td align="center">{{date}}</td>
+          <td><a href="{{url}}">{{title}}</a></td>
+        </tr>
       {{/each}}
     </tbody>
   </table>
@@ -79,14 +87,16 @@
   <table>
     <thead>
       <tr>
-        <th>제목</th>
+        <th align="center">날짜</th>
+        <th align="left">제목</th>
       </tr>
     </thead>
     <tbody>
       {{#each items}}
-      <tr>
-        <td><a href="{{url}}">{{title}}</a></td>
-      </tr>
+        <tr>
+          <td align="center">{{date}}</td>
+          <td><a href="{{url}}">{{title}}</a></td>
+        </tr>
       {{/each}}
     </tbody>
   </table>
