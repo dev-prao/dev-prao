@@ -16,28 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in Tistory posts
-        uses: gautamkrishnar/blog-post-workflow@v2.0.1
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://prao.tistory.com/rss"
           accept_header: "text/xml"
           max_post_count: 5
           date_format: "yyyy.MM.dd"
           template: |
-            <div align="center">
-              <table>
-                <thead>
-                  <tr>
-                    <th align="center">날짜</th>
-                    <th align="left">제목</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {{#each posts}}
-                    <tr>
-                      <td align="center">{{date}}</td>
-                      <td><a href="{{url}}">{{title}}</a></td>
-                    </tr>
-                  {{/each}}
-                </tbody>
-              </table>
-            </div>
+            {{#each items}}
+            - [{{title}}]({{url}}) — {{date}}
+            {{/each}}
