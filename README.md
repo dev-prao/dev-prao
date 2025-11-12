@@ -55,14 +55,14 @@
   
   <ul style="list-style-position: outside; padding-left: 60px; margin-left: 10px;">
     <li>동백전 민생회복 소비쿠폰 (2025.06 ~ 2025.07)</li>
-    <li>모바일 동백패스 (2025.03 ~ 2025.07)</li>
+    <li>모바일 동백패스(삼성페이) 출시(2025.03 ~ 2025.07)</li>
     <li>친구와 목표를 세우고 소비를 절약하는 모바일 뱅킹 서비스, CHALLET (2025.08 ~ 2025.10)</li>
     <li>푸드트럭 실시간 위치 공유 및 스트리밍 서비스, 세이푸트 (2025.06 ~ 2025.08)</li>
     <li>일기를 쓰고 감정을 분석하는 서비스, 감정일기 (2025.06)</li>
     <li>KBO 입문자들을 위한 야구 커뮤니티, BUNT (2025.05)</li>
   </ul>
-</div>
 
+  <h3>📜 History </h3>
 <!-- 🔹 주요 이력 -->
 <table align="center" style="table-layout:fixed; width:100%; border-collapse:collapse;">
   <tr>
@@ -80,21 +80,24 @@
     </td>
     <td style="white-space:nowrap; vertical-align:top;">
       <ul>
-        <li>부경대학교 나노융합공학과 졸업<br/>(2015.03 ~ 2020.02)</li>
         <li>삼성 청년 소프트웨어 아카데미 11기<br/>(2024.01 ~ 2024.10)</li>
         <li>우아한테크코스 프리코스 참여<br/>(2023.11 ~ 2023.12)</li>
+        <li>부경대학교 나노융합공학과 졸업<br/>(2015.03 ~ 2020.02)</li>
       </ul>
     </td>
     <td style="white-space:nowrap; vertical-align:top;">
       <ul>
-        <li>정보처리기사 (2022.11)</li>
-        <li>SQLD (2024.04)</li>
-        <li>리눅스마스터 1급 (2025.07)</li>
         <li>금융DT (2025.08)</li>
+        <li>리눅스마스터 1급 (2025.07)</li>
+        <li>SQLD (2024.04)</li>
+        <li>정보처리기사 (2022.11)</li>
       </ul>
     </td>
   </tr>
 </table>
+</div>
+
+
 
 <br/><br/>
 
