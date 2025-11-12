@@ -55,14 +55,14 @@
   
   <ul style="list-style-position: outside; padding-left: 60px; margin-left: 10px;">
     <li>동백전 민생회복 소비쿠폰 (2025.06 ~ 2025.07)</li>
-    <li>모바일 동백패스(삼성페이) 출시(2025.03 ~ 2025.07)</li>
+    <li>모바일 동백패스(삼성페이) 출시 (2025.03 ~ 2025.07)</li>
     <li>친구와 목표를 세우고 소비를 절약하는 모바일 뱅킹 서비스, CHALLET (2025.08 ~ 2025.10)</li>
     <li>푸드트럭 실시간 위치 공유 및 스트리밍 서비스, 세이푸트 (2025.06 ~ 2025.08)</li>
     <li>일기를 쓰고 감정을 분석하는 서비스, 감정일기 (2025.06)</li>
     <li>KBO 입문자들을 위한 야구 커뮤니티, BUNT (2025.05)</li>
   </ul>
 
-  <h3>📜 History </h3>
+  <h3>📜 History</h3>
 <!-- 🔹 주요 이력 -->
 <table align="center" style="table-layout:fixed; width:100%; border-collapse:collapse;">
   <tr>
