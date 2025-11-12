@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog post workflow v2
 
 on:
   schedule:
