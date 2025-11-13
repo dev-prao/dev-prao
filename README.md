@@ -16,7 +16,7 @@
     </td>
     <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-prao&layout=compact&show_icons=true&theme=highcontrast" alt="Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praokr&layout=compact&show_icons=true&theme=highcontrast" alt="Top Langs"/>
       </a>
     </td>
   </tr>
