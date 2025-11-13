@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://github.com/dev-prao/dev-prao/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/praokr/praokr/blob/output/github-contribution-grid-snake.svg">
   
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=P%20R%20A%20O&textBg=false&fontColor=FFFFFF)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=dev-prao&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 <!-- 🔹 Study log & solved.ac 가로 정렬 -->
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; table-layout:fixed; width:100%;">
@@ -25,7 +25,7 @@
 <!-- 🔹 상단 박스 -->
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <a href="https://prao.tistory.com/">
-    <img src="https://markdown-box-generator.vercel.app/api/box?title=나를%20기록하다&author=Author&date=2022-03-21&style=tistory" alt="Tistory"/>
+    <img src="https://markdown-box-generator.vercel.app/api/box?title=commit%20and%20push&author=Author&date=2022-03-21&style=tistory" alt="Tistory"/>
   </a>
   <a href="https://www.linkedin.com/in/prao96">
     <img src="https://markdown-box-generator.vercel.app/api/box?title=LinkedIn&author=Author&date=2023-01-01&style=linked" alt="LinkedIn"/>
