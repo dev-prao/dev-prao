@@ -4,7 +4,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=P%20R%20A%20O&textBg=false&fontColor=FFFFFF)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true&cache=off)](https://git.io/streak-stats)
 
 <!-- 🔹 Study log & solved.ac 가로 정렬 -->
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; table-layout:fixed; width:100%;">
