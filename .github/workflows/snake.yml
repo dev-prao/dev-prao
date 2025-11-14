@@ -5,8 +5,8 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    #24시간마다 한 번
-    - cron: "0 */24 * * *" 
+    #매시간마다 한 번
+    - cron: "0 * * * *" 
   
   # allows to manually run the job at any time
   # 자동으로 action이 실행되도록 함
