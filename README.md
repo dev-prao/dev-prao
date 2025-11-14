@@ -43,11 +43,11 @@
   <h3>🍊 Recent Uploads 🍊</h3>  
   
   <!-- BLOG-POST-LIST:START -->
+- [Spring Boot에서의 Kotlin 그리고 Java](https://prao.tistory.com/entry/Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-Kotlin-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Java)
 - [From Java to Kotlin](https://prao.tistory.com/entry/From-Java-to-Kotlin)
 - [[친절한 SQL 튜닝] SQL 처리 과정과 I/O](https://prao.tistory.com/entry/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-SQL-%EC%B2%98%EB%A6%AC-%EA%B3%BC%EC%A0%95%EA%B3%BC-IO)
 - [[Network] NAT란 무엇인가](https://prao.tistory.com/entry/Network-NAT%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - [EC2 ubuntu, Docker, Spring Boot로 elasticsearch 검색 기능 구현하기](https://prao.tistory.com/entry/EC2-ubuntu-Docker-Spring-Boot%EB%A1%9C-elasticsearch-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-- [[Error] 키바나 설정 오류 - value of &amp;quot;elastic&amp;quot; is forbidden](https://prao.tistory.com/entry/Error-%ED%82%A4%EB%B0%94%EB%82%98-%EC%84%A4%EC%A0%95-%EC%98%A4%EB%A5%98-value-of-elastic-is-forbidden)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
