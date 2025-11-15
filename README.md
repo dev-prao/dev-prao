@@ -20,7 +20,7 @@
 <br/>
 
 <!-- 🔹 티스토리 포스트 박스 -->
-### 🍊 Blog Uploads 🍊  
+### 🍊 Blog Uploads
   
 <!-- BLOG-POST-LIST:START -->
 - [Kotlin + Spring Boot ORM/DSL 선택](https://prao.tistory.com/entry/Kotlin-Spring-Boot-ORMDSL-%EC%84%A0%ED%83%9D)
@@ -39,7 +39,7 @@
 - 일기를 쓰고 감정을 분석하는 서비스, 감정일기 (2025.06)
 - KBO 입문자들을 위한 야구 커뮤니티, BUNT (2025.05) - `경진대회 2등`
   
-### My Log 💬
+### 💬 My Log 
 - 부산은행 디지털금융개발부 동백전 운영 및 개발 (2025.01 ~ 현재)
 - 부산은행 신입행원 연수 (2024.11 ~ 2025.12)
 - 삼성 청년 소프트웨어 아카데미(SSAFY) 11기 (2024.01 ~ 2024.10)
@@ -56,7 +56,7 @@
 - 전기기사 (2020.11)
 - 컴퓨터활용능력 1급 (2019.10)
 
-### 📚 Tech Stack 📚
+### 📚 Tech Stack
 
 <table style="table-layout:fixed; width:100%;">
   <tr>
