@@ -4,138 +4,119 @@
   
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=P%20R%20A%20O&textBg=false&fontColor=FFFFFF)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true&cache=off)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true&cache=off)](https://git.io/streak-stats)
 
-<!-- 🔹 Study log & solved.ac 가로 정렬 -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; table-layout:fixed; width:100%;">
-  <tr>
-    <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
-      <a href="https://solved.ac/pch718">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=pch718" alt="Solved.ac Profile"/>
-      </a>
-    </td>
-    <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praokr&layout=compact&show_icons=true&theme=highcontrast" alt="Top Langs"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- 🔹 Study log & solved.ac 가로 정렬 -->
+  <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; table-layout:fixed; width:100%;">
+    <tr>
+      <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
+        <a href="https://solved.ac/pch718">
+          <img src="http://mazassumnida.wtf/api/generate_badge?boj=pch718" alt="Solved.ac Profile"/>
+        </a>
+      </td>
+      <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praokr&layout=compact&show_icons=true&theme=highcontrast" alt="Top Langs"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<!-- 🔹 상단 박스 -->
-<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-  <a href="https://prao.tistory.com/">
-    <img src="https://markdown-box-generator.vercel.app/api/box?title=commit%20and%20push&author=Author&date=2022-03-21&style=tistory" alt="Tistory"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prao96">
-    <img src="https://markdown-box-generator.vercel.app/api/box?title=LinkedIn&author=Author&date=2023-01-01&style=linked" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/praokr">
-    <img src="https://markdown-box-generator.vercel.app/api/box?title=praokr&author=Author&date=2015-05-05&style=insta" alt="Instagram"/>
-  </a>
+  <!-- 🔹 상단 박스 -->
+  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+    <a href="https://prao.tistory.com/">
+      <img src="https://markdown-box-generator.vercel.app/api/box?title=commit%20and%20push&author=Author&date=2022-03-21&style=tistory" alt="Tistory"/>
+    </a>
+    <a href="https://www.linkedin.com/in/prao96">
+      <img src="https://markdown-box-generator.vercel.app/api/box?title=LinkedIn&author=Author&date=2023-01-01&style=linked" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/praokr">
+      <img src="https://markdown-box-generator.vercel.app/api/box?title=praokr&author=Author&date=2015-05-05&style=insta" alt="Instagram"/>
+    </a>
+  </div>
 </div>
 
 <br/>
 
 <!-- 🔹 티스토리 포스트 박스 -->
-<div align="left" style="border:2px solid #FFA500; border-radius:10px; padding:20px; width:85%; max-width:720px; margin:0 auto; background:#fffdf5; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:left;">
-
-  <h3>🍊 Recent Uploads 🍊</h3>  
+### 🍊 Blog Uploads 🍊  
   
-  <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 - [Kotlin + Spring Boot ORM/DSL 선택](https://prao.tistory.com/entry/Kotlin-Spring-Boot-ORMDSL-%EC%84%A0%ED%83%9D)
 - [Spring Boot에서의 Kotlin 그리고 Java](https://prao.tistory.com/entry/Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-Kotlin-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Java)
 - [From Java to Kotlin](https://prao.tistory.com/entry/From-Java-to-Kotlin)
 - [[친절한 SQL 튜닝] SQL 처리 과정과 I/O](https://prao.tistory.com/entry/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-SQL-%EC%B2%98%EB%A6%AC-%EA%B3%BC%EC%A0%95%EA%B3%BC-IO)
 - [[Network] NAT란 무엇인가](https://prao.tistory.com/entry/Network-NAT%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 <!-- BLOG-POST-LIST:END -->
-</div>
 
-<br/><br/>
-
-<div align="left" style="padding-left: 30px;">
-
-  <h3>💻 Projects</h3>
+### 💻 Projects
   
-  <ul style="list-style-position: outside; padding-left: 60px; margin-left: 10px;">
-    <li>동백전 민생회복 소비쿠폰 발행 (2025.06 ~ 2025.07)</li>
-    <li>모바일 동백패스(삼성페이) 출시 (2025.03 ~ 2025.07)</li>
-    <li>친구와 목표를 세우고 소비를 절약하는 모바일 뱅킹 서비스, CHALLET (2025.08 ~ 2025.10)</li>
-    <li>푸드트럭 실시간 위치 공유 및 스트리밍 서비스, 세이푸트 (2025.06 ~ 2025.08)</li>
-    <li>일기를 쓰고 감정을 분석하는 서비스, 감정일기 (2025.06)</li>
-    <li>KBO 입문자들을 위한 야구 커뮤니티, BUNT (2025.05)</li>
-  </ul>
+- 동백전 민생회복 소비쿠폰 발행 (2025.06 ~ 2025.07)
+- 모바일 동백패스(삼성페이) 출시 (2025.03 ~ 2025.07)
+- 친구와 목표를 세우고 소비를 절약하는 모바일 뱅킹 서비스, CHALLET (2025.08 ~ 2025.10) - `경진대회 1등`
+- 푸드트럭 실시간 위치 공유 및 스트리밍 서비스, 세이푸트 (2025.06 ~ 2025.08) - `경진대회 2등`
+- 일기를 쓰고 감정을 분석하는 서비스, 감정일기 (2025.06)
+- KBO 입문자들을 위한 야구 커뮤니티, BUNT (2025.05) - `경진대회 2등`
   
-  <br/><br/>
-  
-  <h3>My Log 💬</h3>
-  <ul>
-    <li>부산은행 디지털금융개발부 동백전 운영 및 개발 (2025.01 ~ 현재)</li>
-    <li>부산은행 25행번 신입행원 연수 교육 (2024.11~2025.12)</li>
-    <li>삼성 청년 소프트웨어 아카데미 11기 (2024.01 ~ 2024.10)</li>
-    <li>우아한테크코스 프리코스 참여 (2023.11 ~ 2023.12)</li>
-    <li>부산시설공단 전기안전관리자(초급) (2022.01 ~ 2023.03)</li>
-    <li>부경대학교 나노융합공학과 졸업 (2015.03 ~ 2021.02)</li>
-  </ul>
+### My Log 💬
+- 부산은행 디지털금융개발부 동백전 운영 및 개발 (2025.01 ~ 현재)
+- 부산은행 신입행원 연수 (2024.11 ~ 2025.12)
+- 삼성 청년 소프트웨어 아카데미(SSAFY) 11기 (2024.01 ~ 2024.10)
+- 우아한테크코스 프리코스 참여 (2023.11 ~ 2023.12)
+- 부산시설공단 전기안전관리자(초급) (2022.01 ~ 2023.03)
+- 부경대학교 나노융합공학과 졸업 (2015.03 ~ 2021.02)
 
-  <br/><br/>
+### 🪪 Certifications
+- 금융DT (2025.08)
+- 리눅스마스터 2급 (2025.07)
+- SQLD (2024.04)
+- 정보처리기사 (2022.11)
+- 전기공사기사 (2021.07)
+- 전기기사 (2020.11)
+- 컴퓨터활용능력 1급 (2019.10)
 
-  <h3>🪪 Certifications</h3>
-  <ul>
-    <li>금융DT (2025.08)</li>
-    <li>리눅스마스터 2급 (2025.07)</li>
-    <li>SQLD (2024.04)</li>
-    <li>정보처리기사 (2022.11)</li>
-    <li>전기공사기사 (2021.07)</li>
-    <li>전기기사 (2020.11)</li>
-    <li>컴퓨터활용능력 1급 (2019.10)</li>
-  </ul>
+### 📚 Tech Stack 📚
 
-  <br/><br/>
-
-  <h3>📚 Tech Stack 📚</h3>
-  
-  <table style="table-layout:fixed; width:100%;">
-    <tr>
-      <td><b>Language</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Database</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Infra</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=Docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Skills</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table style="table-layout:fixed; width:100%;">
+  <tr>
+    <td><b>Language</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=ElasticSearch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=Docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Skills</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-</div>
+
