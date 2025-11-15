@@ -1,40 +1,21 @@
 <div align="center">
-  
-  <img src="https://github.com/praokr/praokr/blob/output/github-contribution-grid-snake.svg">
-  
+    
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=P%20R%20A%20O&textBg=false&fontColor=FFFFFF)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pch718)](https://solved.ac/pch718)
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true&cache=off)](https://git.io/streak-stats)
 
-  <!-- 🔹 Study log & solved.ac 가로 정렬 -->
-  <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; table-layout:fixed; width:100%;">
-    <tr>
-      <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
-        <a href="https://solved.ac/pch718">
-          <img src="http://mazassumnida.wtf/api/generate_badge?boj=pch718" alt="Solved.ac Profile"/>
-        </a>
-      </td>
-      <td align="center" style="border:none; white-space:nowrap; vertical-align:top;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praokr&layout=compact&show_icons=true&theme=highcontrast" alt="Top Langs"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praokr&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)-->
+  
+  [![Tistory](https://markdown-box-generator.vercel.app/api/box?title=commit%20and%20push&author=Author&date=2022-03-21&style=tistory)](https://prao.tistory.com/)
+  [![LinkedIn](https://markdown-box-generator.vercel.app/api/box?title=LinkedIn&author=Author&date=2023-01-01&style=linked)](https://www.linkedin.com/in/prao96)
+  [![Instagram](https://markdown-box-generator.vercel.app/api/box?title=praokr&author=Author&date=2015-05-05&style=insta)]()
 
-  <!-- 🔹 상단 박스 -->
-  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-    <a href="https://prao.tistory.com/">
-      <img src="https://markdown-box-generator.vercel.app/api/box?title=commit%20and%20push&author=Author&date=2022-03-21&style=tistory" alt="Tistory"/>
-    </a>
-    <a href="https://www.linkedin.com/in/prao96">
-      <img src="https://markdown-box-generator.vercel.app/api/box?title=LinkedIn&author=Author&date=2023-01-01&style=linked" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com/praokr">
-      <img src="https://markdown-box-generator.vercel.app/api/box?title=praokr&author=Author&date=2015-05-05&style=insta" alt="Instagram"/>
-    </a>
-  </div>
+  <img src="https://github.com/praokr/praokr/blob/output/github-contribution-grid-snake.svg">
 </div>
+
+
 
 <br/>
 
