@@ -23,11 +23,11 @@
 ### 🍊 Blog Uploads
   
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin vs Java 알고리즘 풀이 비교](https://prao.tistory.com/entry/Kotlin-vs-Java-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EC%9D%B4-%EB%B9%84%EA%B5%90)
 - [Kotlin + Spring Boot ORM/DSL 선택](https://prao.tistory.com/entry/Kotlin-Spring-Boot-ORMDSL-%EC%84%A0%ED%83%9D)
 - [Spring Boot에서의 Kotlin 그리고 Java](https://prao.tistory.com/entry/Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-Kotlin-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Java)
 - [From Java to Kotlin](https://prao.tistory.com/entry/From-Java-to-Kotlin)
 - [[친절한 SQL 튜닝] SQL 처리 과정과 I/O](https://prao.tistory.com/entry/%EC%B9%9C%EC%A0%88%ED%95%9C-SQL-%ED%8A%9C%EB%8B%9D-SQL-%EC%B2%98%EB%A6%AC-%EA%B3%BC%EC%A0%95%EA%B3%BC-IO)
-- [[Network] NAT란 무엇인가](https://prao.tistory.com/entry/Network-NAT%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 Projects
