@@ -1,10 +1,12 @@
 <div align="center">
-    
+
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=P%20R%20A%20O&textBg=false&fontColor=FFFFFF)
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=51F700&width=435&lines=Junior+Server+Developer)](https://git.io/typing-svg)
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pch718)](https://solved.ac/pch718)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true&cache=off)](https://git.io/streak-stats)
+  <!--[![GitHub Streak](https://streak-stats.demolab.com?user=praokr&theme=dark&short_numbers=true&cache=off)](https://git.io/streak-stats)-->
 
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praokr&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)-->
   
